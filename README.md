@@ -78,7 +78,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### C#
 
 - [Clojure CLR](https://github.com/clojure/clojure-clr) [Type-C] great for game development with arcadia and unity
-
+- [#Script Lisp](https://sharpscript.net/lisp/) [Type-B] Embeddable Lisp for Scripting .NET Apps
 
 ### Erlang
 
